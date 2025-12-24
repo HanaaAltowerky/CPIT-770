@@ -7,5 +7,5 @@ This repository contains simple Python implementations of the **A\*** search alg
   A quick implementation of the A\* algorithm focusing on core logic.
   
 - **interactive.py**  
-  An interactive grid-based A\* pathfinding visualizer using **Tkinter**.
+  An interactive grid-based A\* pathfinding visualizer using Tkinter.
 
