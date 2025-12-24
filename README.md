@@ -1,5 +1,4 @@
 # CPIT-770 -  A* Search Python code
-## A* Pathfinding (Python)
 
 This repository contains simple Python implementations of the **A\*** search algorithm.
 
